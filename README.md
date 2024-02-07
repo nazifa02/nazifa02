@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Introduction
 
 **nazifa02/nazifa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🐱🐱🐱
 
+## Projects 
+- 
+
+## Demos 
+
+Meow!
+
+![gif](https://i.gifer.com/embedded/download/7vTT.gif)
