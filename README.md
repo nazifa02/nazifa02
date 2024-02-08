@@ -5,7 +5,7 @@ Syeda Nazifa Tasneem is a 1st-year Ph.D. student in the Department of Geography 
 
 ## My Research Interest:
 
-Climate Change
-Tropical Cyclone
-Water Quality
+Climate Change,
+Tropical Cyclone,
+Water Quality,
 Vulnerability 
