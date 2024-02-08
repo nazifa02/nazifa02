@@ -1,26 +1,5 @@
 ### Hi there 👋
 
-## Introduction
+## Syeda Nazifa Tasneem
 
-**nazifa02/nazifa02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🐱🐱🐱
-
-## Projects 
-- 
-
-## Demos 
-
-Meow!
-
-![gif](https://i.gifer.com/embedded/download/7vTT.gif)
+Syeda Nazifa Tasneem is a 1st-year Ph.D. student in the Department of Geography and Sustainability at the University of Tennessee, Knoxville. Primarily her research focuses on understanding drought in Bangladesh. Nazifa has an interest in hydro-meteorological hazards and environmental pollution. Her previous research work at the University of Dhaka assessed the impact of tannery waste on the surface water quality of the Dhaleshwari River. Her work at Auburn University focused on the tropical cyclone vulnerability analysis in the coastal areas of Bangladesh.
